@@ -1,6 +1,6 @@
 ---
-dateModified: '2016-06-23T22:42:08.246Z'
-datePublished: '2016-06-23T22:42:18.755Z'
+dateModified: '2016-06-23T22:49:03.771Z'
+datePublished: '2016-06-23T22:49:17.842Z'
 description: 'Easily Charge A Battery With 20-50 Watts Of Electricity '
 inFeed: true
 isBasedOnUrl: >-
