@@ -4,7 +4,7 @@
         <description><![CDATA[Bringing Electricity and Transportation to India]]></description>
         <link>https://thegrid.ai/indiabike/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 22:42:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2016 22:42:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/indiabike/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Before going further, READ THIS: The World Needs To Learn The Value Of A Watt]]></title>
@@ -19,6 +19,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/cac16f6e-0eb2-4772-a016-a4f59e0d364e.jpg</link>
             <guid isPermaLink="false">499ee4b0-98e4-4e26-a4a5-68967aa07ffe</guid>
             <pubDate>Thu, 23 Jun 2016 21:24:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Home Charging Stand]]></title>
+            <description><![CDATA[<article><h1>Home Charging Stand</h1><p>Easily Charge A Battery With 20-50 Watts Of Electricity </p></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d87c971a-2f9c-49c5-a1d2-6ae6fbdd88b1.jpg</link>
+            <guid isPermaLink="false">b1afd32f-4f39-4654-8dd5-a08775e5d657</guid>
+            <pubDate>Thu, 23 Jun 2016 22:42:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Haul Stuff]]></title>
@@ -40,13 +47,6 @@
             <link>https://youtube.com/watch?feature=youtu.be&amp;v=_VWXr-DIMKY</link>
             <guid isPermaLink="false">56d69613-76c9-43c1-b901-093eebe79e3b</guid>
             <pubDate>Thu, 23 Jun 2016 22:04:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Home Charging Stand]]></title>
-            <description><![CDATA[<article><h1>Home Charging Stand</h1><p>Easily Charge A Battery With 20-50 Watts Of Electricity </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/127bd3558f05c575ca6862b97e3a97db/croprotate.jpg?cropheight=2987&cropwidth=3882&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fd87c971a-2f9c-49c5-a1d2-6ae6fbdd88b1.jpg&x=0&y=0"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d87c971a-2f9c-49c5-a1d2-6ae6fbdd88b1.jpg</link>
-            <guid isPermaLink="false">b1afd32f-4f39-4654-8dd5-a08775e5d657</guid>
-            <pubDate>Thu, 23 Jun 2016 17:01:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
