@@ -1,24 +1,24 @@
 ---
-inFeed: true
+authors: []
+dateModified: '2016-06-23T22:56:38.734Z'
+datePublished: '2016-06-23T22:56:48.260Z'
+description: >-
+  Much More Useful Than The 5 Hour Energy Founder's Free Electric Stationary
+  Bike
 hasPage: false
+inFeed: true
 inNav: false
 isBasedOnUrl: 'https://youtube.com/watch?feature=youtu.be&v=_VWXr-DIMKY'
-inLanguage: null
 keywords: []
-description: This simple bike also makes electricity. The stand doubles as a rack!
-datePublished: '2016-06-23T22:04:41.228Z'
-dateModified: '2016-06-23T22:04:25.856Z'
 title: A Power Plant
 author: []
-sourcePath: _posts/2016-05-22-free-electric-india-pilot-may-2016-update-230.md
-authors: []
-publisher: null
 starred: false
+sourcePath: _posts/2016-05-22-free-electric-india-pilot-may-2016-update-230.md
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![This simple bike also makes electricity. The stand doubles as a rack!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0b3fa0d-f57b-40c4-a273-9ab0b82dfbdb.jpg)
+![Much More Useful Than The 5 Hour Energy Founder's Free Electric Stationary Bike](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0b3fa0d-f57b-40c4-a273-9ab0b82dfbdb.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d157b5b-ee75-4ed1-ad45-f3d089e4092b.jpg)
 
 The Five Hour Energy Guy recently made a splash with his new Free Electric Bike, designed to help rural people have electricity. This video update of the project (below) is great, but The Green Microcycle (above) is better, because you can also use it for transportation.
