@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bringing Electricity and Transportation to India]]></title>
+        <description><![CDATA[Bringing Electricity and Transportation to India]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 23 Jun 2016 16:58:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Haul Stuff]]></title>
+            <description><![CDATA[<article><h1>Haul Stuff</h1><p>The Stand Doubles As A Rack</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b536864b-9cf7-48b0-af69-6215c6055ccf.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b536864b-9cf7-48b0-af69-6215c6055ccf.jpg</link>
+            <guid isPermaLink="false">d349b467-c111-40c1-a805-32bdad292dd2</guid>
+            <pubDate>Thu, 23 Jun 2016 16:58:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
