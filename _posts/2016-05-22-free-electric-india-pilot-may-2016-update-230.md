@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://youtube.com/watch?feature=youtu.be&v=_VWXr-DIMKY'
 inLanguage: null
 keywords: []
 description: This simple bike also makes electricity. The stand doubles as a rack!
-datePublished: '2016-06-23T22:04:23.016Z'
-dateModified: '2016-06-23T22:04:16.396Z'
+datePublished: '2016-06-23T22:04:41.228Z'
+dateModified: '2016-06-23T22:04:25.856Z'
 title: A Power Plant
 author: []
 sourcePath: _posts/2016-05-22-free-electric-india-pilot-may-2016-update-230.md
