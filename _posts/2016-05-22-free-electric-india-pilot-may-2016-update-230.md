@@ -1,9 +1,9 @@
 ---
 authors: []
-dateModified: '2016-06-23T22:56:38.734Z'
-datePublished: '2016-06-23T22:56:48.260Z'
+dateModified: '2016-06-24T07:10:41.383Z'
+datePublished: '2016-06-24T07:10:50.880Z'
 description: >-
-  Much More Useful Than The 5 Hour Energy Founder's Free Electric Stationary
+  Much More Useful Than The 5 Hour Energy Founder's "Free" Electric Stationary
   Bike
 hasPage: false
 inFeed: true
@@ -18,7 +18,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![Much More Useful Than The 5 Hour Energy Founder's Free Electric Stationary Bike](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0b3fa0d-f57b-40c4-a273-9ab0b82dfbdb.jpg)
+![Much More Useful Than The 5 Hour Energy Founder's "Free" Electric Stationary Bike](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0b3fa0d-f57b-40c4-a273-9ab0b82dfbdb.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d157b5b-ee75-4ed1-ad45-f3d089e4092b.jpg)
 
 The Five Hour Energy Guy recently made a splash with his new Free Electric Bike, designed to help rural people have electricity. This video update of the project (below) is great, but The Green Microcycle (above) is better, because you can also use it for transportation.
