@@ -1,6 +1,6 @@
 ---
-dateModified: '2016-06-23T22:41:47.628Z'
-datePublished: '2016-06-23T22:41:56.844Z'
+dateModified: '2016-06-24T06:57:59.329Z'
+datePublished: '2016-06-24T06:58:08.619Z'
 description: The Stand Doubles As A Rack
 inFeed: true
 isBasedOnUrl: >-
